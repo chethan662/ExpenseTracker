@@ -1,0 +1,7 @@
+.wallet-balance {
+    text-align: center;
+  }
+  
+  .wallet-balance input[type='number'] {
+    margin-left: 10px;
+  }

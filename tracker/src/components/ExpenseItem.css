@@ -1,0 +1,20 @@
+.expense-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .expense-info {
+    flex: 1;
+  }
+  
+  .expense-actions button {
+    margin-left: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }

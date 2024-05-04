@@ -1,0 +1,16 @@
+.app {
+  margin: 20px;
+  padding: 20px;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.top-section > * {
+  flex: 1;
+  margin-right: 20px;
+}
